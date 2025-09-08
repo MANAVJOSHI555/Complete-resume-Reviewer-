@@ -1,5 +1,7 @@
 # 📄 AI-Powered Resume Reviewer (ATS-Friendly)
 
+# Deployed Link - https://dmpx4xygptuh5dkxecqvwl.streamlit.app/
+
 An AI-powered Resume Reviewer built with **Streamlit** and **Google’s Gemini 1.5 Flash** model.  
 This project evaluates resumes against a given **job description** and provides:  
 - ✅ Missing Skills  
